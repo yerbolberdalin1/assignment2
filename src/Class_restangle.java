@@ -2,8 +2,8 @@ public class Class_restangle {
 
     private double width;
     private double height;
-    int id;
-    static int idGen;
+    private int id;
+    private static int idGen;
 
     public Class_restangle(){
         this.width = 1.0;
